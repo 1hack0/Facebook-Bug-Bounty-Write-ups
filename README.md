@@ -1,5 +1,3 @@
-**Hunting Bugs for Fun and Profit**
-
 ## 2018 Facebook Bounty Write-ups
 * http://whitehatstories.blogspot.com/2018/03/setting-up-tests-for-any-app-or-pixel.html
 * http://whitehatstories.blogspot.com/2018/04/hi-this-post-is-regarding-one-of-my.html
@@ -16,6 +14,7 @@
 * https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa
 * https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd
 * https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288
+* https://medium.com/@samm0uda/bruteforcing-instagram-accounts-passwords-without-limit-7eaeda606ea
 * https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a
 * https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
 * https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c
@@ -25,6 +24,7 @@
 * https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7
 * https://medium.com/bugbountywriteup/disclosure-of-facebook-page-admin-due-to-insecure-tagging-behavior-24ff09de5c29
 * https://medium.com/bugbountywriteup/distorted-and-undeletable-posts-in-facebook-group-9424e15f5551
+* https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342
 * https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9
 * https://philippeharewood.com/access-to-fbconnections/
 * https://philippeharewood.com/application-secret-embedded-in-login-flow-for-facebook-swag-store/
