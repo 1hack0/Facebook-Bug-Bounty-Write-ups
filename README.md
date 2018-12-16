@@ -1,4 +1,4 @@
-## 2018 Facebook Bounty Write-ups
+## 2018 Facebook Bug Bounty Write-ups
 * http://whitehatstories.blogspot.com/2018/03/setting-up-tests-for-any-app-or-pixel.html
 * http://whitehatstories.blogspot.com/2018/04/hi-this-post-is-regarding-one-of-my.html
 * http://whitehatstories.blogspot.com/2018/05/how-i-could-have-made-your-products-out.html
