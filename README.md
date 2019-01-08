@@ -5,16 +5,21 @@
 * http://www.askbuddie.com/unauthorized-comments-on-facebook-live-stream/
 * https://asad0x01.blogspot.com/2018/03/see-unpublished-job-of-any-page.html
 * https://asad0x01.blogspot.com/2018/05/toggling-comment-option-of-post.html
+* https://ash-king.co.uk/downloading-any-file-via-facebook-android.html
+* https://ash-king.co.uk/facebook-bug-bounty-09-18.html
 * https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
+* https://bugbounty.blog/2018/09/18/facebook-750-reward-for-a-simple-bug/
 * https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327
 * https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89
 * https://medium.com/@markchristiandeduyo/misconfiguration-of-demographics-privacy-in-a-page-682feb1179f2
 * https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba
 * https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773
+* https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58
 * https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa
 * https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd
 * https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288
 * https://medium.com/@samm0uda/bruteforcing-instagram-accounts-passwords-without-limit-7eaeda606ea
+* https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
 * https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a
 * https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
 * https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c
@@ -58,7 +63,10 @@
 * https://www.stueotue.xyz/2018/05/create-undeletable-post-in-groupevent.html
 * https://www.stueotue.xyz/2018/10/disclose-facebook-learning-unit-group.html
 * https://www.youtube.com/watch?v=EXNchVewMF0
+* https://www.youtube.com/watch?v=H0aQPcuskMo
+* https://www.youtube.com/watch?v=ic-R8jtRoME
 * https://www.youtube.com/watch?v=N_i8sPlbtZs
+* https://www.youtube.com/watch?v=Y5BUqdY_M1M
 
 ## 2017 Facebook Bug Bounty Write-ups
 * http://asad0x01.blogspot.com/2017/05/facebook-bug-bountycommenting-on-non.html
