@@ -1,3 +1,151 @@
+## 2020 Facebook Bug Bounty Write-ups
+* 
+* https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd
+* (Admin disclosure of Facebook verified pages/ Disclose Facebook employee assigned to help a verified page.)[https://ysamm.com/?p=479]
+* https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f
+* https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d
+* https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/
+* https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638
+* (Privilege escalation in Partners Portal to Admin access)[https://ysamm.com/?p=460]
+* (Disclose the Instagram account linked to a Facebook user account or page)[https://ysamm.com/?p=450]
+* https://medium.com/@saugatpokharel/cannot-revoke-session-on-messenger-for-kids-facebook-bug-bounty-2020-9505ca201ec7
+* (Internal directories enumeration in www)[https://ysamm.com/?p=458]
+* https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb
+* https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html
+* https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
+* https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e
+* https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25
+* https://philippeharewood.com/change-any-link-at-https-fbwat-ch/
+* https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050
+* https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/
+* https://philippeharewood.com/change-the-profanity-filter-for-any-facebook-page/
+* https://vinothkumar.me/20000-facebook-dom-xss/
+* https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab
+* (Exposure of Facebook object type by knowing the object ID)[https://ysamm.com/?p=444]
+* (Add draft subtitles to any Facebook video and Full Path Disclosure)[https://ysamm.com/?p=437]
+* https://fadhilthomas.github.io/facebook-white-hat-01/
+* https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a
+* https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160
+* https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14
+* https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/
+(Generate valid signatures for files hosted in Facebook CDNs)[https://ysamm.com/?p=404]
+* (Ability to bruteforce Instagram account’s password due to lack of rate limitation protection)[https://ysamm.com/?p=396]
+* https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
+* (Facebook CSRF bug which lead to Instagram Partial account takeover.)[https://ysamm.com/?p=379]
+* https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c
+* https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/
+* https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/
+* https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/
+* https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/
+* https://www.amolbaikar.com/disclose-facebook-business-account-id/
+* https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/
+* https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/
+* (Cross-Site Websocket Hijacking bug in Facebook that leads to account takeover)https://ysamm.com/?p=363
+* https://medium.com/@ritishkumarsingh/facebook-vulnerability-hidden-community-manager-in-pages-due-to-invitation-accept-logic-61ddbe229c97
+
+## 2019 Facebook Bug Bounty Write-ups
+* https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815
+* https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246
+* https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf
+* https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html
+* (Reflected XSS in graph.facebook.com leads to account takeover in IE/Edge)[https://ysamm.com/?p=343]
+* https://medium.com/@lokeshdlk77/disable-any-unconfirmed-account-in-facebook-123aeba19426
+* https://medium.com/@rajasudhakar/how-i-could-delete-facebook-ask-for-recommendations-posts-place-objects-in-comments-b7c9bcdf1c92
+* https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/
+* https://philippeharewood.com/view-the-ranked-messenger-users-for-any-page/
+* https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362
+* https://medium.com/@tiendat253/writeup-fb-crash-web-app-through-application-form-of-job-application-pages-405fa3def937
+* https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4
+* https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf
+* https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/
+* https://medium.com/@tiendat253/writeup-bugbounty-facebook-disclosure-the-verified-phone-number-in-checkpoint-aa652faeaf21
+* https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
+* https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780
+* https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/
+* https://www.valbrux.it/blog/2019/09/13/how-two-dead-users-allowed-remote-crash-of-any-instagram-android-user/
+* https://philippeharewood.com/facebook-employee-internal-tool-and-conversations-and-leaked-in-facebook-video/
+* https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/
+* https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/
+* https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e
+* (HTML to PDF converter bug leads to RCE in Facebook server)[https://ysamm.com/?pd=280]
+* https://thezerohack.com/hack-instagram-again
+* https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/
+* https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html
+* https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/
+*  https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0
+*  https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42
+*  https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
+*  https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c
+*  https://medium.com/@renwa/facebook-messenger-disclosing-deleted-messages-that-has-been-deleted-by-remove-for-everyone-1fb5a52cc7df
+*  (Download predictions details of ads plans of any business.)[https://ysamm.com/?p=291]
+* (Internal path disclosure in Instagram server)[https://ysamm.com/?p=321]
+* (Access portal of Facebook mobile retailers and see earnings and referrals reports.)[https://ysamm.com/?p=314]
+* (View orders and financial reports lists for any page shop.)[https://ysamm.com/?p=281]
+* https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b
+* https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/
+* https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/
+* https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/
+* https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5
+* https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526
+* https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c
+* https://thezerohack.com/hack-any-instagram#articlescroll
+* https://medium.com/@yusuffurkan/facebook-bug-bounty-page-admin-disclose-bug-facebook-android-app-c0fa50459177
+* https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042
+* https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e
+* https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-page-events-695729d6a09d
+* https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/
+* https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/
+* https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/
+* https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/
+* https://medium.com/@evilboyajay/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb
+* https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302
+* https://medium.com/@rohitcoder/business-user-employees-can-add-edit-change-or-apply-block-list-to-a-business-account-7b3e8aae667e
+* https://medium.com/@ritishkumarsingh/facebook-vulnerability-non-unfriendable-user-in-hacked-workflow-5a3b392a2a98
+* (Disclose files content from Facebook internal CDNs)[https://ysamm.com/?p=272]
+* https://philippeharewood.com/determine-a-user-from-an-email-address/
+* https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079
+* https://medium.com/@kankrale.rahul/from-na-to-3000-facebooks-url-spoofing-vulnerability-b4be1a3c63b1
+* https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/
+* (Disclose the content of internal Facebook Javascript modules.)[https://ysamm.com/?p=256]
+* https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6
+* https://medium.com/@rajsek/how-i-was-able-to-get-your-facebook-private-friend-list-responsible-disclosure-91984606e682
+* https://philippeharewood.com/facebook-marketing-confidential-call-transcript/
+* https://lgtm.com/blog/facebook_fizz_CVE-2019-3560
+* https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f
+* https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
+* https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/
+* https://www.imperva.com/blog/mapping-communication-between-facebook-accounts-using-a-browser-based-side-channel-attack/
+* https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
+* http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/
+* https://georgeosterweil.com/2019-02-20-fbctf-idor/
+* https://ysamm.com/?p=240
+* https://medium.com/@rohitcoder/facebook-workplace-bug-exposed-offsite-employee-events-sensitive-emails-putting-employees-at-risk-813d77a0c0ab
+* https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/
+* https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
+* (Facebook CSRF protection bypass which leads to Account Takeover	)[https://ysamm.com/?p=185]
+* (Export Facebook audience network reports of any business)[https://ysamm.com/?p=214]
+* (Internal paths disclosure due to improper exception handling)[https://ysamm.com/?p=158]
+* (Leak of private/in-development app ids, names and translation requests)[https://ysamm.com/?p=171]
+* https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html
+* (Enroll in Facebook Ad-break program without Facebook approval)[https://ysamm.com/?p=68]
+* (Disclose page’s admins and its Monetization payout details)[https://ysamm.com/?p=60]
+* (Disclose page violations and its eligibility to use Ad-breaks)[https://ysamm.com/?p=64]
+* (Disclose Instagram business account linked to a Facebook page)[https://ysamm.com/?p=56]
+* (Change payment account of any Facebook commerce page)[https://ysamm.com/?p=50]
+* (Expose business email and payment account balance of any Facebook commerce page.)[https://ysamm.com/?p=45]
+* (Reveal if a Facebook merchant page has pending or completed orders)[https://ysamm.com/?p=42]
+* [https://ysamm.com/?p=38](Bruteforce Instagram account’s passwords (lack of rate limiting protection).
+* (Generate Access Tokens for any Facebook user)[https://ysamm.com/?p=35]
+* (Modify users profiles of techprep.fb.com)[https://ysamm.com/?p=30]
+* (Uploading files to api.techprep.fb.com)[https://ysamm.com/?p=12]
+* https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d
+* https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1
+* https://generaleg0x01.com/2019/01/13/hackyourform-bxss/
+* https://medium.com/@evilboyajay/workplace-logo-id-to-workplace-owner-name-disclosurefacebook-bug-bounty-e745db59d0bd
+* https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html
+* https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/
+* https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html
+* https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58
 ## 2018 Facebook Bug Bounty Write-ups
 * http://whitehatstories.blogspot.com/2018/03/setting-up-tests-for-any-app-or-pixel.html
 * http://whitehatstories.blogspot.com/2018/04/hi-this-post-is-regarding-one-of-my.html
