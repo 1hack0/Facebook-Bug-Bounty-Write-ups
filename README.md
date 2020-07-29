@@ -1,8 +1,8 @@
 ## 2020 Facebook Bug Bounty Write-ups
-* 
-* https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd
+* [Story Of 4 digit bounty](https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd)
+* [Browser Anamoly](https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd)
 * (Admin disclosure of Facebook verified pages/ Disclose Facebook employee assigned to help a verified page.)[https://ysamm.com/?p=479]
-* https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f
+* [Hidden Comments](https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f)
 * https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d
 * https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/
 * https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638
